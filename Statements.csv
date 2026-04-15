@@ -1,0 +1,21 @@
+statement_id,person_id,claimed_car,claimed_hours,reason
+1,1,CAR101,2,Shopping
+2,2,CAR102,3,"Office visit"
+3,3,CAR103,1,"Quick pickup"
+4,4,CAR104,3,Meeting
+5,5,CAR105,4,Mall
+6,6,CAR106,1,"ATM visit"
+7,7,CAR107,2,"Friend visit"
+8,8,CAR108,2,Shopping
+9,9,CAR109,1,"Drop friend"
+10,10,CAR110,2,Coffee
+11,11,CAR111,2,Work
+12,12,CAR112,2,Bank
+13,13,CAR113,4,"Personal work"
+14,14,CAR114,1,Office
+15,15,CAR115,2,Shopping
+16,16,CAR116,1,"Quick work"
+17,17,CAR117,2,"Friend meet"
+18,18,CAR118,1,Pickup
+19,19,CAR119,2,Shopping
+20,20,CAR120,1,"Just 1 hour, sir"
